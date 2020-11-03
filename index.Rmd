@@ -7,6 +7,8 @@ output:
     theme: cerulean
 ---
 
+[Click here to my dashboard!](dashboard.html)
+
 ## About me
 
 My name is Yubei Liang, and I go by Bella. I graduated from Boston University majored in Statistics. Now, I am studying Biostatistics and my concentration is Statistical Genetics. My hometown is in Shanxi province, China. Welcome to visit it! 
