@@ -7,17 +7,19 @@ output:
     theme: cerulean
 ---
 
-#### About me
+## About me
 
-My name is Yubei Liang, and I go by Bella. I graduated from Boston University majored in Statistics. Now, I am studying Biostatistics and my concentration is Statistical Genetics. My hometown is in Shanxi province, China. Welcome to visit it!
+My name is Yubei Liang, and I go by Bella. I graduated from Boston University majored in Statistics. Now, I am studying Biostatistics and my concentration is Statistical Genetics. My hometown is in Shanxi province, China. Welcome to visit it! 
 
-#### Favorite Chinese singer Chenyu Hua:
+[Click here to my CV!](resume.html)
+
+## Favorite Chinese singer Chenyu Hua
 
 <img src="images/image1.jpg" style="width:100%">
 
 [Click here to listen his song Qitian（meaning as high as the heaven）](https://www.youtube.com/watch?v=xjo1FCW9_kM)
 
 
-#### Favorite snack:
+## Favorite snack
 
 <img src="images/image2.jpg" style="width:100%">
