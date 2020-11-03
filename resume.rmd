@@ -1,0 +1,8 @@
+---
+title: "resume"
+output: html_document
+---
+
+```{r out.width="100%", out.height="500", echo=FALSE}
+knitr::include_graphics('./Yubei Liang CV Final.pdf')
+```
